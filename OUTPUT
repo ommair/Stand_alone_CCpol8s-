@@ -1,0 +1,6 @@
+ runninng water cluster with CCdpol8s_omo    calculation using damped_ind           physical_dipole     
+
+         dimer     VDW(kcal/mol)            COUL(kcal/mol)            IND(kcal/mol)      CCpol8s'+NB(ind)(kcal/mol)
+           1   10.242648309741215       -7.5212509674435735       -1.3002060793115247        1.4211912629861168     
+           2   4.5076171437514336       -7.2480607737956166      -0.95243087077567701       -3.6928745008198600     
+           3   1.3453278177704959       -5.5222180677606874      -0.57889239123006853       -4.7557826412202600     

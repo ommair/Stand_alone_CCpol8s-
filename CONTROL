@@ -1,0 +1,4 @@
+   ccpol8s_omo         # potential name (ccpol8s_omo)   
+   user_config         # inintial configuration (fcc_config or user_config)  
+   damped_ind          # damped_ind or undamped_ind 
+   physical_dipole     # physical_dipole or mathematical_dipole        
